@@ -14,15 +14,20 @@
     margin-bottom:20px
 }
 
-
-header{
+.immagine{
     background-image: url(../img/logo.png);
     height: 140px;
     margin-bottom: 20px;
     background-repeat: no-repeat;
-    border-right: #0086FF;
-    border-width: 2px;
-    border-right: solid;
+    border-right:solid;
+    border-color: rgb(156, 156, 156);
+    width: 360px;
+}
+
+
+header{
+    height: 140px;
+    margin-bottom: 20px;
 }
 
 
