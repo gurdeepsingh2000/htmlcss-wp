@@ -34,6 +34,7 @@ header{
 section{
     background-color: #e1d67a;
     height: 500px;
+    margin-bottom: 20px;
 }
 
 li{
@@ -43,6 +44,11 @@ li{
     font-size: 20px;
     margin-right: 20px;
     color: grey;
+}
+
+.test{
+    background-color: black;
+    height: 100px;
 }
 
 
