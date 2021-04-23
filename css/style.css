@@ -36,11 +36,6 @@ header{
 
 
 main{
-    background-color: black;
-    border-radius: 32px;
-}
-
-section{
     background-image: url(../img/banner.jpg);
     background-size: cover;
     height: 600px;
@@ -48,7 +43,12 @@ section{
     border-radius: 32px;
     margin-bottom: 20px;
     margin-top: 30px;
-    opacity: 70%;
+}
+
+section{
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 32px;
+    height: 600px;
 }
 
 
@@ -72,6 +72,7 @@ li{
 
 .Txt1{
     color: #ffffff;
+    font-size: 25px;
 }
 
 
