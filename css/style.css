@@ -46,9 +46,10 @@ li{
     color: grey;
 }
 
+
 .test{
-    background-color: black;
-    height: 100px;
+    height: 480px;
+    background-image: url(/img/banner.jpg);
 }
 
 
