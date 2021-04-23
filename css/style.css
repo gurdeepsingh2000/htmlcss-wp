@@ -31,10 +31,15 @@ header{
 }
 
 
-section{
-    background-color: #e1d67a;
-    height: 500px;
+.mix{
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    height: 600px;
+    background-position: center;
+    border-radius: 70px;
     margin-bottom: 20px;
+    margin-top: 30px;
+
 }
 
 li{
@@ -50,6 +55,7 @@ li{
 .test{
     height: 480px;
     background-image: url(/img/banner.jpg);
+    background-position: center;
 }
 
 
