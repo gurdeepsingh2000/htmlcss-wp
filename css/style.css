@@ -81,7 +81,6 @@ footer{
     width: 1200px;
     height: 80px;
     margin: 0 auto;
-    background: rgb(112, 26, 151);
 }
 
 .contenitore2{
@@ -160,7 +159,13 @@ footer{
 }
 
 .dw{
-    
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#heart{
+    color: red;
 }
 
 
